@@ -17,13 +17,6 @@ This will:
 - ✅ Let you choose and download a model
 - ✅ Create all necessary folders
 - ✅ Set up helper scripts
-
-**Then activate and test:**
-```bash
-source activate_vv.sh
-./quick_test.sh
-```
-
 ---
 
 ## 🎯 What's Included
